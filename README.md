@@ -1,0 +1,1 @@
+# equalizacao-histograma-php-ucs
